@@ -1,0 +1,30 @@
+{
+  "name": "jestlearn",
+  "version": "1.0.0",
+  "description": "A program to explain testing in javascript as well as code coverage report",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin-Stark/Jest-Learning.git"
+  },
+  "keywords": [
+    "javascript",
+    "jest",
+    "test",
+    "report",
+    "code",
+    "coverage"
+  ],
+  "author": "COLLINS OLOKPEDJE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colin-Stark/Jest-Learning/issues"
+  },
+  "homepage": "https://github.com/Colin-Stark/Jest-Learning#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
